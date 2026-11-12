@@ -1,5 +1,5 @@
 # Analisis Performa CDCN dan Fine-tuning Dataset Pribadi
-Simulasi core algoritma face anti-spoofing dengan **CDCN dasar (theta 0.7)**, supervisi peta kedalaman PRNet, dan web Uji Coba CDCN Local untuk pengujian kamera HP melalui server laptop. Implementasi ini mengadaptasi metode Yu dkk.; bukan reproduksi persis protokol benchmark paper.
+Simulasi core algoritma face anti-spoofing dengan **CDCN dasar (theta 0.7)**, supervisi peta kedalaman PRNet, dan web Uji Coba CDCN Local untuk pengujian kamera HP melalui server laptop. Implementasi ini mengadaptasi metode Yu dkk.
 
 ## Alur metode
 1. Siapkan train/val/test. Pertahankan satu video dan rekaman terkait pada satu split; audit identitas/sumber replay Dataset Pribadi masih diperlukan.
