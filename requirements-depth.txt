@@ -1,0 +1,6 @@
+# Depth generation runs in its own Python 3.11 environment.
+tensorflow-cpu==2.15.1
+tf-slim==1.1.0
+numpy==1.26.4
+opencv-python-headless==4.11.0.86
+numba==0.61.2

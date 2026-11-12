@@ -1,0 +1,32 @@
+# Environments and generated files
+.venv*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+# Datasets, weights and private HTTPS material
+data/
+*.pth
+*.pt
+*.onnx
+*.tflite
+*.h5
+*.data-*
+*.index
+*.meta
+*.pem
+*.key
+*.cer
+checkpoints/tls/
+# Large archives, recordings and temporary logs
+*.zip
+*.mp4
+*.mov
+*.avi
+*.webm
+*.jpg
+*.jpeg
+experiments/
+tmp/
+*.log
