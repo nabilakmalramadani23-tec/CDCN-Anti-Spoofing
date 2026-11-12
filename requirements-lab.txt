@@ -1,0 +1,4 @@
+Flask
+waitress
+opencv-python-headless
+cryptography
